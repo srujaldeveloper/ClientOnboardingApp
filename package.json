@@ -11,7 +11,7 @@
     "axios": "^0.19.2",
     "extract-domain": "^2.2.1",
     "formik": "^2.1.4",
-    "handsontable": "^7.4.2",
+    "handsontable": "^10.0.0",
     "history": "^4.10.1",
     "react": "^16.13.0",
     "react-cookie": "^4.0.3",
